@@ -179,7 +179,7 @@ footer > p{
 @media (max-width: 768px) {
     .navbar {
       flex-direction: column; /* Stack navigation items vertically on small screens */
-      align-items: center; /* Center navigation items horizontally */
+      align-items: center; /*Center navigation items horizontally*/
     }
     
     #main-menu {
